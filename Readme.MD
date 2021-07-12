@@ -1,13 +1,13 @@
-For starting development server 
+For starting development Backend
 ```
-cd backend
+cd Backend
 npm install
-npm run debug
+npm start
 ```
 
-For starting development frontend
+For starting development Frontend
 ```
-cd frontend
+cd Frontend
 npm install
 npm start
 ```
